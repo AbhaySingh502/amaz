@@ -1,0 +1,26 @@
+
+.sub_items{
+   padding: 0 20px;
+}
+.subtotal p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.Sub_gift{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+.Sub_gift input{
+    margin-right: 4px;
+}
+.subtotal button{
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px 0 rgba(213,217,217,.5);
+    background: #FFD814;
+border-color: #FCD200;
+font-size: 16px;
+}

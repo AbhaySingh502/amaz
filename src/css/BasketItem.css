@@ -1,0 +1,53 @@
+.Basket{
+    margin-bottom: 10px;
+    display: flex;
+}
+.Basket_img{
+    margin-right: 12px;
+    margin-bottom: 4px ;
+}
+.Basket_right{
+    margin-right: 12px;
+}
+.Basket_up{
+    display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+    margin-bottom: 12px;
+}
+.Basket_title{
+    text-align: left;
+    margin-bottom: 4px !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+.Basket_price strong{
+    font-size: 22px;
+    font-weight: 650;
+}
+.Basket_price small{
+    font-size: 21px;
+    font-weight: 700;
+}
+.Basket_gift{
+    margin-top: 6px;
+}
+.textBas{
+    margin-left: 5px;
+    font-size: 15px;
+}
+.textBas a{
+    text-decoration: none;
+color: #007185;
+}
+.Basket_size{
+    font-size: 13px;
+}
+.Basket_size span{
+    font-size: 15px;
+    font-weight: 700;
+}
+.Basket_down{
+    margin-bottom: 10px;
+}
